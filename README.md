@@ -1,4 +1,6 @@
 # auth-boilerplate
 
-## `npm install`
-## Add a `.env` file with a `session_secret`
+## Get it up and running:
+
+1. `npm install` to install dependencies
+2. add a `.env` file with a `SESSION_SECRET`
