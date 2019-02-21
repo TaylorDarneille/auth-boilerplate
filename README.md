@@ -3,7 +3,9 @@
 ## Technologies
 * [Node](https://nodejs.org/en/): server
 * [Express](https://expressjs.com/): web-app framework for Node
-* Templates: [EJS](https://ejs.co/)/[EJS layouts](https://www.npmjs.com/package/express-ejs-layouts)
+* [EJS](https://ejs.co/)/[EJS layouts](https://www.npmjs.com/package/express-ejs-layouts): views/templates
+* [PostgreSQL](https://www.postgresql.org/): SQL Database
+* [Sequelize](http://docs.sequelizejs.com/): ORM
 
 ## Routes
 Route table here
