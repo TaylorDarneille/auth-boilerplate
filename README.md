@@ -1,5 +1,14 @@
 # auth-boilerplate
 
+## Technologies
+Technologies used here
+
+## Routes
+Route table here
+
+## Model
+User model info here
+
 ## Get it up and running:
 
 1. `npm install` to install dependencies
