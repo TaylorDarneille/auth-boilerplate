@@ -1,7 +1,9 @@
 # Node/Express Auth Boilerplate
 
 ## Technologies
-Technologies used here
+* [Node](https://nodejs.org/en/): server
+* [Express](https://expressjs.com/): web-app framework for Node
+* Templates: [EJS](https://ejs.co/)/[EJS layouts](https://www.npmjs.com/package/express-ejs-layouts)
 
 ## Routes
 Route table here
