@@ -1,4 +1,4 @@
-# auth-boilerplate
+# Node/Express Auth Boilerplate
 
 ## Technologies
 Technologies used here
